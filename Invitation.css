@@ -13,6 +13,8 @@ body {
 }
 .kissing-gif {
   margin: 50px;
+  width: 350px;
+  height: auto;
 }
 .message {
   max-width: 800px;       
